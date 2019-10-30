@@ -4,7 +4,7 @@
 
 Simple JSON exporter to textArea - [twine-to-json.js](json/twine-to-json.js)
 
-Just download it and install from local path or your own server.
+Just [download it](https://raw.githubusercontent.com/Kvisaz/twine-json/master/json/twine-to-json.js) and install from local path or your own server.
 
 ## How to create own Twine format
 
