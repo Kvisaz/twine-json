@@ -1,5 +1,13 @@
 # Twine Format (JSON export working sample)
 
+## How to get Twine to Json exporter
+
+Simple JSON exporter to textArea - [twine-to-json.js](json/twine-to-json.js)
+
+Just download it and install from local path or your own server.
+
+## How to create own Twine format
+
 How to create custom format for [Twine](https://twinery.org/) - interactive story editor?
 
 It is simple Javascript file like
@@ -60,8 +68,4 @@ Your format must convert this tags to any HTML5 application, what you want. Or t
 
 Just add some script to string `source` after `{{STORY_DATA}}`.
 
-## Json Export 
-
-Simple JSON exporter to textArea - [twine-to-json.js](json/twine-to-json.js)
-
-Just download it and install from local path or your own server.
+Script must be stringified (see  [twine-to-json.js](json/twine-to-json.js) for example)
