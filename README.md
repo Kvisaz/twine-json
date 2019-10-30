@@ -1,6 +1,6 @@
 # Twine Format (JSON export working sample)
 
-How to create custom format for Twine - interactive story editor?
+How to create custom format for [Twine](https://twinery.org/) - interactive story editor?
 
 It is simple Javascript file like
 
